@@ -15,15 +15,16 @@ I’m not here because I love coding. I'm here because... well, life brought me 
 ---
 
 ## 📊 Time Spent in VS Code (Because I Had To)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhvny&layout=compact&theme=dracula)](https://wakatime.com/@Zhvny)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhvny&layout=compact&theme=github_dark)](https://wakatime.com/@Zhvny)
 
 ---
 
 ## 🧩 GitHub Vibes
 
-![Zhvny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhvny&show_icons=true&theme=tokyonight)
+![Zhvny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhvny&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhvny&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhvny&layout=compact&theme=github_dark)
+
 
 ---
 
