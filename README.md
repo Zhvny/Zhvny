@@ -15,7 +15,7 @@ I’m not here because I love coding. I'm here because... well, life brought me 
 ---
 
 ## 📊 Time Spent in VS Code (Because I Had To)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhvny&layout=compact&theme=dracula)](https://wakatime.com/@zhvny)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhvny&layout=compact&theme=dracula)](https://wakatime.com/@Zhvny)
 
 ---
 
