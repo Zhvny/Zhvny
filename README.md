@@ -4,7 +4,7 @@
 
 ## 📊 Coding Activity
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhvny&layout=compact&theme=github_dark)](https://wakatime.com/@Zhvny)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=zhvny&layout=compact&theme=github_dark)](https://wakatime.com/@Zhvny)
 
 ---
 
