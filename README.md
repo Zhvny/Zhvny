@@ -4,8 +4,7 @@
 
 ## 📊 Coding Activity
 
-[![WakaTime][(https://wakatime.com/share/@Zhvny/7a6420b7-1b9c-4516-acd6-dd2dbf1b33ae.svg)]]
-(https://wakatime.com/@Zhvny)
+[![WakaTime](https://wakatime.com/share/@Zhvny/7a6420b7-1b9c-4516-acd6-dd2dbf1b33ae.svg)](https://wakatime.com/@Zhvny)
 
 ---
 
