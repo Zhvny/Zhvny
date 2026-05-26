@@ -1,6 +1,4 @@
-# 👋 Hey there!
-
----
+# Hey there!
 
 <p align="center">
   📈 Stats on  
